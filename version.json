@@ -9,7 +9,8 @@
   "Arc-LoadingScreenV1OPEN":   { "version": "1.0.0" },
   "Arc-Cityhall":   { "version": "1.2.0" },
   "Arc-Hud":   { "version": "1.0.0" },
-  "Arc-Boombox":   { "version": "1.1.0" }
+  "Arc-Boombox":   { "version": "1.1.0" },
+  "Arc-RadialMenuV2":   { "version": "1.0.0" },
 }
 
 
