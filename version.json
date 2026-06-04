@@ -12,7 +12,8 @@
   "Arc-Boombox":   { "version": "1.1.0" },
   "Arc-RadialMenuV2":   { "version": "1.0.0" },
   "Arc-NoPumpExplode":   { "version": "1.1.0" },
-  "Arc-OutfitBag":   { "version": "1.0.0" }
+  "Arc-OutfitBag":   { "version": "1.0.0" },
+  "Arc-DoorLock":   { "version": "1.0.0" }
 }
 
 
