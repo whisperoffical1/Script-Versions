@@ -17,7 +17,8 @@
   "Arc-Multicharacter":   { "version": "1.1.0" },
   "Arc-BlipCreator":   { "version": "1.0.0" },
   "Arc-ApocLoadingScreenV1":   { "version": "1.0.0" },
-  "Arc-Rally":   { "version": "1.0.0" }
+  "Arc-Rally":   { "version": "1.0.0" },
+  "Arc-CollisionDetector":   { "version": "1.0.0" }
 }
 
 
