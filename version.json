@@ -18,7 +18,8 @@
   "Arc-BlipCreator":   { "version": "1.0.0" },
   "Arc-ApocLoadingScreenV1":   { "version": "1.0.0" },
   "Arc-Rally":   { "version": "1.0.0" },
-  "Arc-CollisionDetector":   { "version": "1.0.0" }
+  "Arc-CollisionDetector":   { "version": "1.0.0" },
+  "Arc-RadialMenuV1OPEN":   { "version": "1.0.0" }
 }
 
 
