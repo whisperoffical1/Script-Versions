@@ -20,7 +20,8 @@
   "Arc-CollisionDetector":   { "version": "1.0.0" },
   "Arc-RadialMenuV1OPEN":   { "version": "1.0.0" },
   "Arc-PawnShopV1":   { "version": "1.1.0" },
-  "Arc-PawnShopV1OPEN":   { "version": "1.0.0" }
+  "Arc-PawnShopV1OPEN":   { "version": "1.0.0" },
+  "Arc-PawnShopV2":   { "version": "1.1.0" },
 }
 
 
