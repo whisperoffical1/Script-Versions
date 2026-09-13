@@ -26,7 +26,8 @@
   "Arc-LoadingScreenV3":   { "version": "1.0.0" },
   "Arc-CycleWorkshop":   { "version": "1.0.0" },
   "Arc-BlackoutHeist":   { "version": "1.4.0" },
-  "Arc-ShipHappens":   { "version": "1.0.0" }
+  "Arc-ShipHappens":   { "version": "1.0.0" },
+  "Arc-SmallResources":   { "version": "1.0.0" }
 }
 
 
